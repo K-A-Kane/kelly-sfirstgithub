@@ -1,0 +1,18 @@
+---
+title: "About"
+image: matilda.jpg
+about:
+  template: jolla
+  links:
+    - icon: twitter
+      text: Twitter
+      href: www.twitter.com/jgeller_phd
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com
+    - icon: github
+      text: Github
+      href: https://github.com
+---
+
+> ### Hello my name is Whiskey Tits.  My butt is squishy and plump, and a delight to the senses.

@@ -1,0 +1,106 @@
+---
+title: "Something Else"
+author: "Kelly Kayne"
+date: "2023-01-22"
+categories: [news]
+---
+
+Characteristics\
+Topics: What is fake news likely to be about?
+
+Politics
+
+        Often focuses on political outrage or current events
+
+Conspiracies
+
+Any attempt to assert that secret groups are controlling world events, usually maliciously
+
+Nature
+
+Heartwarming stories or \"creature features\" about unusual natural events
+
+Health
+
+ Spurious or manipulative information about our bodies and diets
+
+Celebrities
+
+Any form of gossip about famous individuals 
+
+Mechanisms: How does fake news draw attention?
+
+Urgency
+
+Often taps into current events or claim time limits to share information
+
+Outrage
+
+Anything that makes people angry is likely to incur page clicks
+
+Fear
+
+Either stoking existing fears or creating new ones about potential risks will draw attention
+
+Trust monopoly
+
+A tactic that involves claiming that one\'s own channel is the only one that delivers honest and unbiased reporting, in order to prevent engagement with other (real) news sources
+
+Gaslighting
+
+An attempt to deny reality through claiming that others have biased perceptions or that readers cannot trust their own senses
+
+Stoking egos
+
+Focusing on ways that readers or their groups have desirable qualities
+
+Us vs. them mentality
+
+Creating a sense of competition between groups, and tearing outgroup members down
+
+Qualities: What makes fake news persuasive and \"sticky\" or viral?
+
+Emotional appeals
+
+Affective content draws attention and stays in the mind 
+
+Share appeals
+
+Unlike real news, fake news often contains direct demands to be retweeted or shared
+
+Pseudo-profound bullshit
+
+Overwhelming any attempt at criticism through use of technical language or fake expertise
+
+Doctored footage
+
+Using information that engages the senses, which will often be remembered long after metacognitive tags of fakeness have been forgotten
+
+Fauxtos
+
+Deliberate misinterpretations of images or videos to make them more shocking
+
+Formats: How does fake news tend to package itself?
+
+Few/no/bad sources
+
+Generally no links (or only links to non-factual sites), and no resources on where the coverage is coming from or how the author obtained this information \
+Short
+
+Fake news is usually no more than a few paragraphs long, and often occurs in single-paragraph or even single-phrase formats
+
+Memes
+
+Although memes cannot really convey real news, they often convey fauxtos, outrages, share appeals, and other forms of fake news
+
+\
+
+ 
+
+\
+
+No meta-data
+
+\
+
+Fake news generally lacks information on the time of an event, the time the story was posted, the author\'s name and contact information, the news organization\'s contact information, and other paratextual elements 
